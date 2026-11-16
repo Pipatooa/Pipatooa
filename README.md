@@ -1,5 +1,5 @@
-Third year undergraduate computer science student at the University of Warwick.
+Fourth year undergraduate computer science student at the University of Warwick.
 
-I take interests in user and data-driven programming as well as computer graphics.
+I take interests in compilers, computer architecture, systems programming, user-programmable systems and computer graphics.
 
-Website: https://pipatooa.co.uk/
+Website: https://lilyhall.co.uk/ (Currently down for renovation!)
